@@ -35,7 +35,14 @@ The system follows these key steps:
 | Hybrid Model (Initial)       | 0.8000     | 0.0205    | -            | -          |
 | Improved Hybrid Model        | -          | -         | 0.9000       | 0.0462     |
 
-**Visualization Placeholder:** *Insert precision-recall graphs here.*
+**Visualization**
+image 1.png
+image 2.png
+image 3.png
+image 4.png
+image 5.png
+image 6.png
+image 7.png
 
 ## Evaluation Metrics
 1. **Precision@K** - Measures how many recommended movies are relevant.
@@ -43,13 +50,9 @@ The system follows these key steps:
 3. **MAP@K** - Evaluates the ranking quality of relevant items.
 4. **NDCG@K** - Considers ranking and relevance to measure recommendation quality.
 
-**Visualization Placeholder:** *Insert metric comparison plots here.*
-
 ## Conclusion & Future Improvements
 - The hybrid model improves precision and recall over collaborative filtering alone.
 - Future enhancements can focus on tuning content weight and incorporating more contextual features.
-
-**Visualization Placeholder:** *Insert final insights and improvements graph here.*
 
 ## Usage
 1. Load the dataset.
@@ -64,5 +67,5 @@ The system follows these key steps:
 - Matplotlib/Seaborn (for visualizations)
 
 ## Author
-[Your Name]
+Nelima
 
